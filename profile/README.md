@@ -41,6 +41,28 @@ Oxlo Vision transforms PDF documents into actionable knowledge for students, res
 - Produces markdown and AI-ready skill outputs for developer workflows
 - Supports chat-based exploration over uploaded document content
 
+## Problem Oxlo Vision Solves
+
+Most PDF workflows are slow and fragmented:
+
+- Scanned documents cannot be searched or copied easily
+- Users spend too much time reading large files manually
+- Insights are trapped in unstructured text instead of reusable outputs
+- Teams need multiple tools to summarize, map ideas, and document findings
+
+Oxlo Vision solves this by converting raw PDFs into structured, reusable intelligence in a single flow.
+
+## Objectives
+
+Oxlo Vision is built with these product objectives:
+
+- Reduce time-to-insight from long documents
+- Make scanned PDFs usable through OCR and text extraction
+- Deliver high-quality summaries and key findings for fast decision-making
+- Generate visual understanding artifacts (mind maps, concept maps, diagrams)
+- Provide developer-ready outputs (Markdown and skill files for AI assistants)
+- Offer a deployable, real-world solution judges can test immediately
+
 ## Built For OxBuild Judges
 This project is designed to demonstrate practical value, technical execution, and product readiness:
 
